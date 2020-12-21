@@ -1,0 +1,15 @@
+Logistic Regression :
+1. Supervised Regression Model.
+2. Dependent Variable is Binary or categorical in nature. 
+  eg. 0 and 1, 
+      Iris dataset, 
+      Spam not spam, 
+      Tumor prediction.
+3. Has function to find probabilty of data being in one class to other.
+
+Linear Regression:
+1. Supervised Classification Model.
+2. Dependent Variable is continuous in nature.
+  eg. Home price prediction, 
+      Salary prediction
+3. Predicts dependent variable by change in independent variables.
