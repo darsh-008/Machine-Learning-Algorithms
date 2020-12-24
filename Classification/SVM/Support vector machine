@@ -1,0 +1,9 @@
+Support vector machine(SVM) works by mapping data to a high-dimensional feature space so that data points can be categorized, even when the data are not otherwise linearly 
+separable. A separator between the categories is found, then the data is transformed in such a way that the separator could be drawn as a hyperplane.
+In order to perform its processing, the SVM algorithm gives a choice of kernel functions. Kernelling is essentially called the projection of data into a higher dimensional 
+space. The mathematical function used for the transformation is known as the kernel function, and can be of different types, such as:
+
+1. Linear
+2. Polynomial
+3. Radial basis function (RBF)
+4. Sigmoid
